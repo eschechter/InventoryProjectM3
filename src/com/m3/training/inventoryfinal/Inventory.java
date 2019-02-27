@@ -61,9 +61,11 @@ public class Inventory {
 	public static void main(String[] args) {
 
 		Inventory i = new Inventory();
-		System.out.println(i);
+
 		
-		i.addItem("Bag of glass", 100);
+		i.addItem("Bag of glass", 50);
+		
+		System.out.println(i);
 
 	}
 }
