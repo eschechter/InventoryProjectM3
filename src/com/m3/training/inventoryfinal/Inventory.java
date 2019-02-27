@@ -1,4 +1,4 @@
-
+// Test change to see update in Git.
 package com.m3.training.inventoryfinal;
 
 import com.m3.training.inventoryfinal.Item;
@@ -61,9 +61,11 @@ public class Inventory {
 	public static void main(String[] args) {
 
 		Inventory i = new Inventory();
-		System.out.println(i);
+
 		
-		i.addItem("Bag of glass", 100);
+		i.addItem("Bag of glass", 50);
+		
+		System.out.println(i);
 
 	}
 }

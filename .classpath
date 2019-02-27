@@ -9,6 +9,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="C:/Users/alumniJohnson01/Downloads/OJDBC-Full/OJDBC-Full/ojdbc6.jar"/>
 	<classpathentry kind="lib" path="C:/Users/alumniJohnson01/Downloads/OJDBC-Full/OJDBC-Full/ojdbc7.jar"/>
 	<classpathentry kind="lib" path="C:/Users/alumniJohnson01/Downloads/OJDBC-Full/OJDBC-Full/ons.jar"/>
@@ -16,5 +17,14 @@
 	<classpathentry kind="lib" path="C:/Users/alumniJohnson01/Downloads/OJDBC-Full/OJDBC-Full/simplefan.jar"/>
 	<classpathentry kind="lib" path="C:/Users/alumniJohnson01/Downloads/OJDBC-Full/OJDBC-Full/ucp.jar"/>
 	<classpathentry kind="lib" path="C:/Users/alumniJohnson01/Downloads/OJDBC-Full/OJDBC-Full/xdb6.jar"/>
+=======
+	<classpathentry kind="lib" path="lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc7.jar"/>
+	<classpathentry kind="lib" path="lib/ons.jar"/>
+	<classpathentry kind="lib" path="lib/orai18n.jar"/>
+	<classpathentry kind="lib" path="lib/simplefan.jar"/>
+	<classpathentry kind="lib" path="lib/ucp.jar"/>
+	<classpathentry kind="lib" path="lib/xdb6.jar"/>
+>>>>>>> 6ea4da23dab44ee47c8486b69fa1fd6612566559
 	<classpathentry kind="output" path="bin"/>
 </classpath>
